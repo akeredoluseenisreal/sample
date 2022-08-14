@@ -1,0 +1,181 @@
+*{
+    font-family: poppins;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+/* header */
+.flex{
+    color: white;
+    display:flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+li{
+    display: inline-block;
+}
+.vendor{
+    padding-left: 40px;
+    color: purple;
+    font-size: larger;
+}
+.hast{
+    justify-content: space-between;
+    padding-right: 20px;
+    color:black;
+}
+.explore{
+    margin-right: 80px;
+    background-color: purple;
+    text-align: center;
+    border-radius: 5px;
+    width: 154px;
+    height: 36px;
+}
+.con{
+    padding-left: 7%;
+    height: 80vh;
+}
+.con-1{
+    font-family: 'Raleway';
+    font-size: 90px;
+    padding-top: 190px;
+    margin-left: 36px;
+
+}
+.con-2{
+    padding-top: 40px;
+    padding-right: 40px;
+    font-size: 22px;
+    text-align: center
+}
+.con-3{
+    color: whitesmoke;
+    background-color: purple;
+    margin-top: 45px;
+    text-align:center;
+    width: 90px;
+    margin-left: 600px;
+    height: 30px;
+}
+.fod{
+    padding-left: 22%;
+}
+.food{
+    padding-left: 79%;
+}
+/* phase 1 */
+.container{
+    padding-top:10px;
+}
+.main{
+    font-family: 'Poppins';
+    padding-bottom: 30px;
+    padding-left: 41%;
+    font-size: 27px;
+}
+.second {
+    padding-bottom: 20px;
+    padding-left: 38%;
+    font-size: 45px ;
+}
+.third {
+    text-align: center;
+    padding-right: 6%;
+}
+/* phase 2 /phase 4*/
+.food{
+    display: flex;
+    font-family: 'Raleway';
+    padding-left: 125px;
+    align-content: center;
+    padding-top: 65px;
+}
+.con2{
+    padding-top: 50px;
+}
+.con3{
+    padding-bottom: 20px;
+}
+.con4{
+    font-family: 'Raleway';
+    padding-bottom: 40px;
+    font-size: 35px;
+}
+.box{
+    font-size: small;
+    margin-top: 30px;
+    text-align: center;
+    height:20px;
+    width: 85px;
+    border: 2px solid hsla(275, 77%, 40%, 1) ; 
+}   
+/* phase 3 */
+.twin{
+    padding-left: 170px;
+    display:flex;
+    padding-top: 90px;
+    gap:90px
+}
+.view{
+    font-size: small;
+    margin-top: 30px;
+    text-align: center;
+    height:20px;
+    width: 85px;
+    border: 2px solid hsla(275, 77%, 40%, 1) ;
+} 
+/* phase 4b */
+.foood{
+    padding-left: 170px;
+    display: flex;
+    padding-top: 90px;
+    gap: 40px;
+}
+/* phase 5 */
+.phase5{
+    margin-right: 150px ;
+}
+.phase1{
+    font-family: 'Raleway';
+    padding-top: 90PX;
+    padding-bottom: 20px;
+    padding-left: 45%;
+    font-size: 50px ;
+}
+.phase2{
+    text-align: center;
+    padding-left: 2%;
+    font-weight: 500px;
+}
+/* phase 6 */
+.phase6{
+    padding-top: 70px;
+    padding-left: 37%;
+}
+.test{
+    padding-top: 120px;
+    padding-left: 40%;
+    font-family: 'Raleway';
+    font-size: 60px; 
+}
+/* phase 7/8 */
+.pic{
+    display: flex;
+    margin-bottom: 24px;
+}
+.flexcolumn{
+    display: flex;
+    border: 2px solid hsla(275, 77%, 40%, 1)  ;
+    margin-left: 100px;
+    padding: 40px 40px 16px 40px;
+    border-radius: 32px;
+}
+
+.pic1 {
+    margin-right: 16px
+}
+
+.testimonials_1{
+    margin-right: 80px;
+}

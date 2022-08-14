@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    height: 20vh;
+}
+.fle{
+overflow: scroll;
+}
+.nav{
+    display:flex;
+    font-weight: 900px;
+    justify-content:flex-end;
+    align-items: center;
+    padding:30px 5%;
+}
+
+h1{
+    color: aliceblue;
+    font-size: larger;
+    height: 20vh;
+    margin-right: auto
+}
+li{
+    display: inline-block;
+    color: aliceblue;
+    font-weight: 50;
+    font-size: larger;
+    height: 50vh;
+    margin-right: 30px;
+}
+p{
+    background-color: rgb(7, 29, 29);
+    color: white;
+    font-size: 100px;
+}
+.img{
+    text-align: center;
+    border-radius: 60px;
+}
+.arrow{
+    text-align: center;
+    border-radius: 60px;
+}
+h3{
+    color: brown;
+    background-color: bisque;
+    width: 30%;
+    position:absolute ;
+    left: 50%;
+}
+
+
+
+
+
+.veiw{
+    border:2px solid burlywood;
+    width: 80px;
+    height: 35px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* phase 7 */
+.pic{
+    display: flex;
+    gap: 7px;
+}
+.pic2{
+
+}
